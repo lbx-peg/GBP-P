@@ -1,6 +1,6 @@
-# GBPP
+# GBP-P
 
-GBPP is the GBP-backed version of Peg, the regulated fiat-collateralised stablecoin.
+GBP-P is the GBP-backed version of Peg, the regulated fiat-collateralised stablecoin.
 
 
 
